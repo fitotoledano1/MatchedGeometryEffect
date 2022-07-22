@@ -1,2 +1,5 @@
 # MatchedGeometryEffect
-A simple View that contains a collapsible Header View and a scrollable List. The collapsible Header View uses MatchedGeometryEffect to handle the animation between the collapsed state and the expanded state. 
+
+This repository contains a small View that uses MatchedGeometryEffect and DragGesture to have a Header View switch between the 'collapsed' state and 'extended' state.
+
+The main screen is built of a collapsible Header View and a List.
